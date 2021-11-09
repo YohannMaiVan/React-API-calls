@@ -1,0 +1,16 @@
+.ProductList {
+  height: 150px;
+  width: 200px;
+  margin: 10px;
+
+  ul {
+    list-style-type: none;
+    border-radius: 5px;
+    height: 100%;
+
+    li {
+      display: flex;
+      flex-direction: row;
+    }
+  }
+}
